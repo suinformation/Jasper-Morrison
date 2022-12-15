@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+.cont{
+    width: 100vw;
+    height: 100vh;
+    background-color: #309025;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+}
+
+.wrap{
+   width: 1100px;
+   height: 71vh;
+   position: relative;
+
+}
+    .box0{
+        width: 1100px;
+    }
+    .box1{
+        height: 31px; margin-top: 16px; display: flex; justify-content: space-between;
+    }
+    .box2{
+        height: 71px; margin-top: 370px; display: flex; justify-content: center;
+    }
+
+    /*---네비게이션 시작 --*/
+nav{width: 100%;
+    height: 170px;
+
+}
+ul{
+    width: 1100px;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+li{}
+.bt00{
+    padding-right: 490px;
+}
+
+.bt00:hover{filter: opacity(30%);}
+.bt01:hover{filter: opacity(30%);}
+.bt02:hover{filter: opacity(30%);}
+.bt03:hover{filter: opacity(30%);}
+
+/*---sub01 css 시작 --*/
+    .s01_b00{
+        width: 100%;
+        background-color:#F5F7F6;
+    }
+
+
+    .s01_b00_bo1{
+        height: 2370px;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#F5F7F6;
+}
+
+.s01_b00_bo2    {
+    height: 1800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+
+.s01_b00_bo3{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 190px;
+}
+
+
+.ft{
+    width: 100%;
+    height: 150px;
+    background-color: #309025;
+}
+
+
+
+/*--- sub02 시작 --*/
+
+.box0{
+    width: 1100px;
+}
+.box1{
+    height: 31px; margin-top: 16px; display: flex; justify-content: space-between;
+}
+.box2{
+    height: 71px; margin-top: 370px; display: flex; justify-content: center;
+}
+.s02_b00{
+    width: 100%;
+    background-color: pink;
+}
+
+
+.s02_b00_bo1{
+    height: 1204px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 137px;
+}
+
+.s02_b00_bo2    {height: 1800px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.s02_b00_bo3{
+height: 300px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 330px;
+margin-bottom: 160px;
+}
+
+.s02_b00_bo4{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 800px;
+    margin-bottom: 500px;
+    }
+
+
+.ft{
+width: 100%;
+height: 150px;
+background-color: #309025;
+}
+
+
+
+
+/*--- sub03 시작 --*/
+
+.box0{
+width: 1100px;
+}
+.box1{
+height: 31px; margin-top: 16px; display: flex; justify-content: space-between;
+}
+.box2{
+height: 71px; margin-top: 370px; display: flex; justify-content: center;
+}
+.s03_b00{
+width: 100%;
+background-color: pink;
+}
+
+.s03_b00_bo1{
+height: 1204px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 370px;
+}
+
+.s03_b00_bo2    {height: 1800px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.s03_b00_bo3{
+height: 300px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 330px;
+margin-bottom: 730px;
+}
+
+
+.ft{
+width: 100%;
+height: 150px;
+background-color: #309025;
+}
